@@ -1,0 +1,71 @@
+[
+    {
+        "nom": "L'Indice Bégin",
+        "episodes": [
+            {
+                "id": "ib-1",
+                "noEpisode": 1,
+                "nom": "Le prix du Hot-Dog",
+                "duree": "0:30"
+            },
+            {
+                "id": "ib-2",
+                "noEpisode": 2,
+                "nom": "Hypothéquer sa boîte de biscuit",
+                "duree": "0:30"
+            },
+            {
+                "id": "ib-3",
+                "noEpisode": 3,
+                "nom": "Investir dans le beurre d'arachide",
+                "duree": "0:30"
+            }
+        ]
+    },
+    {
+        "nom": "On parle de Western",
+        "episodes": [
+            {
+                "id": "opdw-1",
+                "noEpisode": 1,
+                "nom": "Vive les bottes",
+                "duree": "1:00"
+            },
+            {
+                "id": "opdw-2",
+                "noEpisode": 2,
+                "nom": "Chanson à répondre",
+                "duree": "1:00"
+            },
+            {
+                "id": "opdw-3",
+                "noEpisode": 3,
+                "nom": "Itchy breaky dance",
+                "duree": "1:00"
+            }
+        ]
+    },
+    {
+        "nom": "Belle et Diaz",
+        "episodes": [
+            {
+                "id": "bed-1",
+                "noEpisode": 1,
+                "nom": "Lit de roses",
+                "duree": "0:30"
+            },
+            {
+                "id": "bed-2",
+                "noEpisode": 2,
+                "nom": "Été de 69",
+                "duree": "0:30"
+            },
+            {
+                "id": "bed-3",
+                "noEpisode": 3,
+                "nom": "Génie dans une bouteille",
+                "duree": "0:30"
+            }
+        ]
+    }
+]
